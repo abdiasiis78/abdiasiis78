@@ -1,15 +1,10 @@
-<img align="center" alt="Coding" width="100%" src="https://img.freepik.com/free-photo/double-exposure-caucasian-man-virtual-reality-vr-headset-is-presumably-gamer-hacker-cracking-code-into-secure-network-server-with-lines-code_146671-18938.jpg?w=996&t=st=1694798487~exp=1694799087~hmac=068dc1b2813a72a35752a2310ee34312d82fca56b0ac1b53fe67b9613c9d40ec"/>
+<img align="center" alt="Coding" width="100%" haight="100" src="https://img.freepik.com/free-photo/double-exposure-caucasian-man-virtual-reality-vr-headset-is-presumably-gamer-hacker-cracking-code-into-secure-network-server-with-lines-code_146671-18938.jpg?w=996&t=st=1694798487~exp=1694799087~hmac=068dc1b2813a72a35752a2310ee34312d82fca56b0ac1b53fe67b9613c9d40ec"/>
 <h1 align="center">Hi 👋, I'm Abdiaziz Halane</h1>
 <h3 align="center">A passionate frontend developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdiasiis78&label=Profile%20views&color=0e75b6&style=flat" alt="abdiasiis78" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdiasiis78" alt="abdiasiis78" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/amesasolutions" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/amesasolutions?logo=twitter&style=for-the-badge" alt="https://twitter.com/amesasolutions" /></a> </p>
-
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and nodejs **
 
 - 👨‍💻 All of my projects are available at [https://amesasolutions.com/](https://amesasolutions.com/)
 
